@@ -5,8 +5,6 @@ const  DashboardPage = () => {
   return (
     <div>
       <p>Landing Page (Protected)</p>
-      <UserButton afterSwitchSessionUrl="/"/>
-
     </div>
   );
 }
